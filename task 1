@@ -1,0 +1,21 @@
+ADR Identification Basics - Task 1
+​Patient Case Scenario: Suspected Calcium Channel Blocker-Induced Peripheral Edema
+​Patient Profile & Medical History
+​Patient: 62-year-old male
+​Past Medical History: Essential Hypertension (diagnosed 6 years ago), Dyslipidemia (diagnosed 4 years ago).
+​Social History: Non-smoker, sedentary lifestyle, walks recreationally. No known drug allergies (NKDA).
+​Current Chronic Medications
+​Atorvastatin 20 mg once daily at bedtime (stable for 4 years)
+​Hydrochlorothiazide 25 mg once daily in the morning (stable for 3 years)
+​Recent Clinical Timeline & Symptoms
+​Day 1: The patient presents for a routine follow-up with persistent hypertension (blood pressure 152/94 mmHg). To achieve target blood pressure control, the physician prescribes a new add-on medication, Amlodipine 10 mg once daily.
+​Day 10: The patient begins to notice tightness in his shoes and socks toward late afternoon and evening.
+​Day 21: The patient returns to the clinic reporting bilateral swelling in both ankles and feet that worsens after standing and partially improves when elevated overnight. He denies chest pain, shortness of breath, orthopnea, paroxysmal nocturnal dyspnea, calf pain, or redness. Physical examination confirms 2+ pitting bilateral ankle edema with clear breath sounds and normal jugular venous pressure.
+​ADR Identification & Causality Analysis
+​Review of Symptoms: The patient presents with bilateral lower extremity pitting edema without signs of systemic volume overload (no dyspnea, orthopnea, or elevated JVP, ruling out congestive heart failure), local unilateral warmth/pain (ruling out deep vein thrombosis or cellulitis), or liver/kidney disease.
+​Medication History Evaluation: Atorvastatin and Hydrochlorothiazide have been maintained steadily for years with documented tolerability, ruling them out as primary causes for a newly emergent acute event.
+​Timeline & Plausibility: Bilateral ankle swelling appeared within 10 to 14 days of starting Amlodipine. Dihydropyridine calcium channel blockers (like Amlodipine) cause preferential precapillary arteriolar vasodilation without equivalent postcapillary venular dilation, raising intracapillary hydrostatic pressure and causing fluid extravasation into interstitial tissues. This is a dose-dependent, well-established pharmacological ADR.
+​Suspected Drug: Amlodipine.
+​Proposed Action & Dechallenge
+​Discontinue Amlodipine (or reduce the dose to 2.5–5 mg daily, or switch to an alternative antihypertensive class such as an ACE inhibitor/ARB, which dilates postcapillary venules and counters CCB-mediated hydrostatic extravasation).
+​Monitor the patient over 1 to 2 weeks post-discontinuation. Resolution of edema following drug withdrawal (positive dechallenge) will categorize the causality as "Probable" according to the Naranjo Causality Assessment Scale.
